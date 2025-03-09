@@ -30,7 +30,7 @@ st.markdown("""
 # แสดงตัวอย่างของผักแต่ละประเภท
 st.subheader("🔍 ตัวอย่างหมวดหมู่ของผักที่สามารถจำแนกได้")
 sample_images = {
-    "🫑 Capsicum": "./image/NN/Capsicum.jpg",
+    "🫑 Capsicum": "./image/NN/capsicum.jpg",
     "🍠 Radish": "./image/NN/radish.jpg",
     "🥬 Cauliflower": "./image/NN/cauliflower.jpg",
 }
